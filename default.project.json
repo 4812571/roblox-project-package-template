@@ -2,7 +2,6 @@
     "name": "your-project-name",
 
     "tree": {
-        "$className": "ModuleScript",
         "$path": "src"
     }
 }
